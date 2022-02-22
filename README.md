@@ -1,5 +1,5 @@
 # mancala-game-using-alpha-beta-pruning
-MANCALA GAME
+
 DESCRIPTION OF THE GAME:
 The board is divided into two parts: player side and mancala,
 and your opponent's side and mancala. Player 1 side is the six
